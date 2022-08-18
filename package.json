@@ -1,0 +1,14 @@
+{
+  "name": "dj-style-dictionary",
+  "version": "1.0.0",
+  "main": "build.js",
+  "license": "MIT",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  },
+  "scripts": {
+    "build": "npm run clean && node ./build.js && style-dictionary build",
+    "clean": "rm -rf dist",
+    "prepare": "npm run build"
+  }
+}

@@ -7,7 +7,7 @@
     "style-dictionary": "^3.7.1"
   },
   "scripts": {
-    "build": "npm run clean && node ./build.js && style-dictionary build",
+    "build": "npm run clean && node ./build.js",
     "clean": "rm -rf dist",
     "prepare": "npm run build"
   }

@@ -2,7 +2,7 @@
   "source": ["tokens/**/*.json"],
   "platforms": {
     "scss": {
-      "transforms": ["attribute/cti", "name/cti/kebab", "time/seconds", "content/icon", "size/pxToRem", "color/hex8"],
+      "transforms": ["attribute/cti", "name/cti/kebab", "name/nk-dj/normalize", "time/seconds", "content/icon", "size/pxToRem", "color/hex8"],
       "buildPath": "dist/scss/",
       "files": [{
         "destination": "_variables.scss",

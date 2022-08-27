@@ -14,7 +14,7 @@ Platform:
   darwin arm64
 
 Trace: 
-  SyntaxError: /Users/muldoonkevin/Documents/Development/dj-style-dictionary/package.json: Unexpected string in JSON at position 161
+  SyntaxError: /Users/muldoonkevin/Documents/Development/dj-style-dictionary/package.json: Unexpected token } in JSON at position 180
       at JSON.parse (<anonymous>)
       at /usr/local/lib/node_modules/yarn/lib/cli.js:1629:59
       at Generator.next (<anonymous>)
@@ -25,14 +25,18 @@ npm manifest:
   {
     "name": "dj-style-dictionary",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "build.js",
     "license": "MIT",
+    "config" : { 
+      "BRANDS_DIR" : "tokens/brands",
+      "BUILD_DIR" : "build",
+    },
     "devDependencies": {
       "style-dictionary": "^3.7.1"
-    }
+    },
     "scripts": {
-      "build": "npm run clean && node ./index.js",
-      "clean": "rm -rf dist",
+      "build": "npm run clean && node ./build.js",
+      "clean": "rm -rf build",
       "prepare": "npm run build"
     }
   }

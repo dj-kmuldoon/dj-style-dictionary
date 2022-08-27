@@ -10,7 +10,7 @@ module.exports = (brand, platform) => {
             js: {
                 transforms: [
                     'attribute/cti',
-                    'name/dj/normalize',
+                    'name/dj/palette',
                     'name/cti/pascal',
                     'size/rem',
                     'color/css',
@@ -21,19 +21,33 @@ module.exports = (brand, platform) => {
                 },
                 files: [
                     {
+                        destination: `${env.PREFIX}-palette.es6.js`,
+                        format: 'javascript/es6',
+                        filter: 'color/dj/palette',
+                        className: 'djToken'
+                    },    
+                    {
+                        destination: `${env.PREFIX}-palette.js`,
+                        format: 'javascript/module-flat',
+                        filter: 'color/dj/palette',
+                        className: 'djToken'
+                    },                        
+                    {
                         destination: 'tokens.es6.js',
+                        filter: 'isLegacy',
                         format: 'javascript/es6'
                     },
                     {
                         destination: 'tokens.js',
+                        filter: 'isLegacy',
                         format: 'javascript/module-flat'
-                    },
+                    }, 
                 ]
             },
             web: {
                 transforms: [
                     'attribute/cti',
-                    'name/dj/normalize',
+                    'name/dj/palette',
                     'name/cti/kebab',
                     'time/seconds',
                     'content/icon',
@@ -41,18 +55,23 @@ module.exports = (brand, platform) => {
                     'color/css'],
                     buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
                     files: [
+                        {
+                            destination: `${env.PREFIX}-palette.css`,
+                            format: 'css/variables',
+                            filter: 'color/dj/palette',
+                        },    
                     {
                         destination: 'tokens.css',
+                        filter: 'isLegacy',
                         format: 'css/variables'
                     }
                 ]
             },
-
             ios: {
                 transforms: [
                     'attribute/cti',
-                    'name/dj/normalize',
-                    'name/dj/prefix',
+                    'name/dj/ios-palette',
+                    'name/dj/palette/prefix',
                     'name/ti/camel',
                     'color/UIColorSwift',
                     'content/swift/literal',
@@ -63,9 +82,15 @@ module.exports = (brand, platform) => {
                 buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
                 files: [
                     {
+                        destination: 'DJPalette.swift',
+                        format: 'ios-swift/enum.swift',
+                        filter: 'color/dj/palette',
+                        className: 'DJPalette'
+                    },
+                    {
                         destination: 'ColorToken.swift',
                         format: 'ios-swift/enum.swift',
-                        filter: 'isColor',
+                        filter: 'color/legacy',
                         className: 'ColorToken'
                     },
                     {
@@ -91,7 +116,7 @@ module.exports = (brand, platform) => {
             android: {
                 transforms: [
                     'attribute/cti',
-                    'name/dj/normalize',
+                    'name/dj/palette',
                     'name/cti/snake',
                     'color/hex8android',
                     'units/sizeTodp',
@@ -100,9 +125,14 @@ module.exports = (brand, platform) => {
                 buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
                 files: [
                     {
+                        destination: 'dj_palette.xml',
+                        format: 'android/resources',
+                        filter: 'color/dj/palette',
+                    },
+                    {
                         destination: 'token_colors.xml',
                         format: 'android/resources',
-                        filter: 'isColor'
+                        filter: 'color/legacy',
                     },
                     {
                         destination: 'token_integers.xml',
@@ -133,8 +163,8 @@ module.exports = (brand, platform) => {
             flutter: {
                 transforms: [
                     'attribute/cti',
-                    'name/dj/normalize',
-                    'name/dj/prefix',
+                    'name/dj/flutter-palette',
+                    'name/dj/palette/prefix',
                     'name/ti/camel',
                     'color/hex8flutter',
                     'size/flutter/remToDouble',
@@ -149,10 +179,16 @@ module.exports = (brand, platform) => {
                 buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
                 files: [
                     {
+                        destination: 'DJPalette.dart',
+                        format: 'flutter/class.dart',
+                        className: 'DJPalette',
+                        filter: 'color/dj/palette',
+                    },
+                    {
                         destination: 'ColorToken.dart',
                         format: 'flutter/class.dart',
                         className: 'ColorToken',
-                        filter: 'isColor'
+                        filter: 'color/legacy',
                     },
                     {
                         destination: 'FontToken.dart',
@@ -176,8 +212,7 @@ module.exports = (brand, platform) => {
             },
             compose: {
                 transforms: ['attribute/cti',
-                    'name/dj/normalize',
-                    'name/dj/prefix',
+                    'name/dj/compose-palette',
                     'name/ti/camel',
                     'color/hex8flutter',
                     'size/flutter/remToDouble',
@@ -192,11 +227,18 @@ module.exports = (brand, platform) => {
                 buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
                 files: [
                     {
+                        destination: 'DJPalette.kt',
+                        format: 'compose/object',
+                        className: 'DJPalette',
+                        packageName: 'com.dowjones.djcomposefoundations.designtoken',
+                        filter: 'color/dj/palette',
+                    },
+                    {
                         destination: 'ColorToken.kt',
                         format: 'compose/object',
                         className: 'ColorToken',
                         packageName: 'com.dowjones.djcomposefoundations.designtoken',
-                        filter: 'isColor'
+                        filter: 'color/legacy',
                     },
                     {
                         destination: 'FontToken.kt',
@@ -224,8 +266,8 @@ module.exports = (brand, platform) => {
             mercury: {
                 transforms: [
                     'attribute/cti',
-                    'name/dj/normalize',
-                    'name/dj/prefix',
+                    'name/dj/palette',
+                    'name/dj/palette/prefix',
                     'name/cti/pascal',
                     'units/color'
                 ],

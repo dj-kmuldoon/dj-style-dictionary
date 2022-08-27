@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Sat, 27 Aug 2022 15:59:18 GMT
+-->
+<resources>
+  <color name="color_teal">#ff007d7e</color>
+  <color name="color_dark_teal">#ff00696b</color>
+  <color name="color_light_teal">#ff009c9e</color>
+  <color name="color_off_white">#fffffbf7</color>
+  <color name="color_off_white_10">#ffe6e2de</color>
+  <color name="color_off_white_20">#ffccc9c6</color>
+  <color name="color_teal_opac_10">#1a007d7e</color>
+  <color name="color_navy">#ff151639</color>
+  <color name="color_navy_75">#ff50516b</color>
+  <color name="color_navy_50">#ff8a8a9c</color>
+  <color name="color_navy_25">#ffc4c5cd</color>
+  <color name="color_dark_navy">#ff0b0c1f</color>
+  
+</resources>

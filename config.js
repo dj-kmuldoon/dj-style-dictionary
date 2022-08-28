@@ -25,13 +25,13 @@ module.exports = (brand, platform) => {
                         format: 'javascript/es6',
                         filter: 'color/dj/palette',
                         className: 'djToken'
-                    },    
+                    },
                     {
                         destination: `${env.PREFIX}-palette.js`,
                         format: 'javascript/module-flat',
                         filter: 'color/dj/palette',
                         className: 'djToken'
-                    },                        
+                    },
                     {
                         destination: 'tokens.es6.js',
                         filter: 'isLegacy',
@@ -41,7 +41,7 @@ module.exports = (brand, platform) => {
                         destination: 'tokens.js',
                         filter: 'isLegacy',
                         format: 'javascript/module-flat'
-                    }, 
+                    },
                 ]
             },
             web: {
@@ -53,13 +53,13 @@ module.exports = (brand, platform) => {
                     'content/icon',
                     'size/rem',
                     'color/css'],
-                    buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
-                    files: [
-                        {
-                            destination: `${env.PREFIX}-palette.css`,
-                            format: 'css/variables',
-                            filter: 'color/dj/palette',
-                        },    
+                buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
+                files: [
+                    {
+                        destination: `${env.PREFIX}-palette.css`,
+                        format: 'css/variables',
+                        filter: 'color/dj/palette',
+                    },
                     {
                         destination: 'tokens.css',
                         filter: 'isLegacy',
@@ -267,16 +267,24 @@ module.exports = (brand, platform) => {
                 transforms: [
                     'attribute/cti',
                     'name/dj/palette',
-                    'name/dj/palette/prefix',
                     'name/cti/pascal',
                     'units/color'
                 ],
                 buildPath: `${env.BUILD_DIR}/${brand}/${platform}/`,
-                files: [{
-                    brand: brand,
-                    destination: 'tokens.mercury.json',
-                    format: 'dj/brand',
-                }],
+                files: [
+                    {
+                        brand: brand,
+                        destination: 'dj.palette.json',
+                        filter: 'color/dj/palette',
+                        format: 'json/nested',
+                    },
+                    {
+                        brand: brand,
+                        destination: 'tokens.mercury.json',
+                        filter: 'color/legacy',
+                        format: 'dj/brand',
+                    },                                        
+            ],
             },
         }
     };

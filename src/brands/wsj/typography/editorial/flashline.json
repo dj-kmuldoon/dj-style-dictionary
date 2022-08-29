@@ -1,0 +1,54 @@
+{
+  "typography": {
+    "flashline": {
+      "font": {
+        "size": {
+          "m": { "value": 13 }
+        },
+        "line-height": {
+          "m": { "value": 16 }
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": { "value": "{typography.flashline.font.size.m.value}" },
+          "line-height": { "value": "{typography.flashline.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina-narrow.value}" },
+          "font-weight": { "value": "{font.weight.medium.value}" },
+          "letter-spacing": { "value": "{font.letter-spacing.08.value}" },
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "opinion": {
+        "m": {
+          "font-size": { "value": "{typography.flashline.font.size.m.value}" },
+          "line-height": { "value": "{typography.flashline.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina-narrow.value}" },
+          "font-weight": { "value": "{font.weight.medium.value}" },
+          "letter-spacing": { "value": "{font.letter-spacing.08.value}" },
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "priority": {
+        "m": {
+          "font-size": { "value": "{typography.flashline.font.size.m.value}" },
+          "line-height": { "value": "{typography.flashline.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina-narrow.value}" },
+          "font-weight": { "value": "{font.weight.medium.value}" },
+          "letter-spacing": { "value": "{font.letter-spacing.08.value}" },
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "magazine": {
+        "m": {
+          "font-size": { "value": "{typography.flashline.font.size.m.value}" },
+          "line-height": { "value": "{typography.flashline.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina-wide.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" },
+          "letter-spacing": { "value": "{font.letter-spacing.1.value}" },
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "typography": {
+    "caption": {
+      "font": {
+        "size": {
+          "m": { "value": 16 },
+          "s": { "value": 14 }
+        },
+        "line-height": {
+          "m": { "value": 24 },
+          "s": { "value": 20 }
+        }
+      },
+      "photo": {
+        "m": {
+          "font-size": { "value": "{typography.caption.font.size.s.value}" },
+          "line-height": { "value": "{typography.caption.font.line-height.s.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      },
+      "survey": {
+        "m": {
+          "font-size": { "value": "{typography.caption.font.size.m.value}" },
+          "line-height": { "value": "{typography.caption.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.regular.value}" }
+        }
+      }
+    }
+  }
+}

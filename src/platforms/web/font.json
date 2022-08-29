@@ -1,0 +1,28 @@
+{
+  "font": {
+    "font-stack": {
+      "escrow-banner": {
+        "value": "{font.family.escrow-banner.value}, {font.family.georgia.value}, {font.family.serif.value}"
+      },
+      "escrow-condensed": {
+        "value": "{font.family.escrow-condensed.value}, {font.family.georgia.value}, {font.family.serif.value}"
+      },
+      "exchange": {
+        "value": "{font.family.exchange.value}, {font.family.georgia.value}, {font.family.serif.value}"
+      },
+      "retina": {
+        "value": "{font.family.retina.value}, {font.family.helvetica.value}, {font.family.arial.value}, {font.family.sans-serif.value}"
+      },
+      "retina-narrow": {
+        "value": "{font.family.retina-narrow.value}, {font.family.helvetica.value}, {font.family.arial.value}, {font.family.sans-serif.value}"
+      },
+      "retina-wide": {
+        "value": "{font.family.retina-wide.value}, {font.family.helvetica.value}, {font.family.arial.value},{font.family.sans-serif.value}"
+      }
+    },
+    "text-transform": {
+      "sentence": { "value": "capitalize" },
+      "uppercase": { "value": "uppercase" }
+    }
+  }
+}

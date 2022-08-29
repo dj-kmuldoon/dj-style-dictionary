@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 29 Aug 2022 12:39:16 GMT
+-->
+<resources>
+  <integer name="font_weight_thin">100</integer>
+  <integer name="font_weight_extra_light">200</integer>
+  <integer name="font_weight_light">300</integer>
+  <integer name="font_weight_regular">400</integer>
+  <integer name="font_weight_medium">500</integer>
+  <integer name="font_weight_semi_bold">600</integer>
+  <integer name="font_weight_bold">700</integer>
+  <integer name="font_weight_extra_bold">800</integer>
+  <integer name="font_weight_ultra_bold">900</integer>
+  <integer name="typography_body_standard_m_font_weight">400</integer>
+  <integer name="typography_body_serif_m_font_weight">400</integer>
+  <integer name="typography_body_serif_s_font_weight">400</integer>
+  <integer name="typography_byline_standard_m_font_weight">400</integer>
+  <integer name="typography_byline_standard_s_font_weight">400</integer>
+  <integer name="typography_caption_standard_m_font_weight">300</integer>
+  <integer name="typography_caption_standard_s_font_weight">300</integer>
+  <integer name="typography_flashline_standard_m_font_weight">500</integer>
+  <integer name="typography_flashline_opinion_m_font_weight">500</integer>
+  <integer name="typography_flashline_priority_m_font_weight">500</integer>
+  <integer name="typography_flashline_magazine_m_font_weight">300</integer>
+  <integer name="typography_headline_standard_xxl_font_weight">700</integer>
+  <integer name="typography_headline_standard_xl_font_weight">700</integer>
+  <integer name="typography_headline_standard_l_font_weight">700</integer>
+  <integer name="typography_headline_standard_m_font_weight">700</integer>
+  <integer name="typography_headline_standard_s_font_weight">700</integer>
+  <integer name="typography_headline_standard_xs_font_weight">700</integer>
+  <integer name="typography_headline_standard_xxs_font_weight">500</integer>
+  <integer name="typography_headline_opinion_xxl_font_weight">400</integer>
+  <integer name="typography_headline_opinion_xl_font_weight">400</integer>
+  <integer name="typography_headline_opinion_l_font_weight">400</integer>
+  <integer name="typography_headline_opinion_m_font_weight">400</integer>
+  <integer name="typography_headline_opinion_s_font_weight">400</integer>
+  <integer name="typography_headline_opinion_xs_font_weight">400</integer>
+  <integer name="typography_headline_features_xxl_font_weight">400</integer>
+  <integer name="typography_headline_features_xl_font_weight">400</integer>
+  <integer name="typography_headline_features_l_font_weight">400</integer>
+  <integer name="typography_headline_features_m_font_weight">400</integer>
+  <integer name="typography_headline_features_s_font_weight">400</integer>
+  <integer name="typography_headline_features_xs_font_weight">400</integer>
+  <integer name="typography_headline_magazine_xxl_font_weight">300</integer>
+  <integer name="typography_headline_magazine_xl_font_weight">300</integer>
+  <integer name="typography_headline_magazine_l_font_weight">300</integer>
+  <integer name="typography_headline_magazine_m_font_weight">300</integer>
+  <integer name="typography_headline_magazine_s_font_weight">300</integer>
+  <integer name="typography_headline_magazine_xs_font_weight">300</integer>
+  <integer name="typography_headline_offplatform_xxl_font_weight">500</integer>
+  <integer name="typography_strap_standard_m_font_weight">500</integer>
+  <integer name="typography_strap_standard_s_font_weight">500</integer>
+  <integer name="typography_strap_opinion_m_font_weight">500</integer>
+  <integer name="typography_strap_priority_m_font_weight">500</integer>
+  <integer name="typography_strap_magazine_m_font_weight">300</integer>
+  <integer name="typography_strap_link_standard_s_font_weight">300</integer>
+  <integer name="typography_subheading_standard_m_font_weight">300</integer>
+  <integer name="typography_subheading_standard_s_font_weight">300</integer>
+  <integer name="typography_subheading_serif_m_font_weight">400</integer>
+  <integer name="typography_subheading_serif_s_font_weight">400</integer>
+  <integer name="typography_summary_standard_m_font_weight">400</integer>
+  <integer name="typography_summary_standard_s_font_weight">400</integer>
+  <integer name="typography_timestamp_standard_xs_font_weight">300</integer>
+  <integer name="typography_timestamp_standard_m_font_weight">400</integer>
+  <integer name="typography_timestamp_standard_s_font_weight">400</integer>
+  
+</resources>

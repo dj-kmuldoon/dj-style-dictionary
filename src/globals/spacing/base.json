@@ -1,0 +1,13 @@
+{
+  "spacing": {
+    "spacer-48": { "value": 48 },
+    "spacer-36": { "value": 36 },
+    "spacer-32": { "value": 32 },
+    "spacer-24": { "value": 24 },
+    "spacer-20": { "value": 20 },
+    "spacer-16": { "value": 16 },
+    "spacer-12": { "value": 12 },
+    "spacer-8": { "value": 8 },
+    "spacer-4": { "value": 4 }
+  }
+}

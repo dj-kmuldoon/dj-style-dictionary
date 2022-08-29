@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 29 Aug 2022 12:39:16 GMT
+-->
+<resources>
+  <color name="color_white">#ffffffff</color>
+  <color name="color_black">#ff000000</color>
+  <color name="color_snow">#fff4f4f4</color>
+  <color name="color_black_opac_10">#1a000000</color>
+  <color name="color_white_opac_50">#80ffffff</color>
+  <color name="color_midnight">#ff111111</color>
+  <color name="color_jet">#ff222222</color>
+  <color name="color_coal">#ff333333</color>
+  <color name="color_nickel">#ff555555</color>
+  <color name="color_silver">#ffcccccc</color>
+  <color name="color_smoke">#ffebebeb</color>
+  <color name="color_light_blue">#ff66c7ff</color>
+  <color name="color_blue">#ff0274b6</color>
+  <color name="color_dark_blue">#ff015483</color>
+  <color name="color_light_red">#ffff8585</color>
+  <color name="color_red">#ffe10000</color>
+  <color name="color_dark_red">#ffba0000</color>
+  <color name="color_light_green">#ff73ef69</color>
+  <color name="color_green">#ff0a8200</color>
+  <color name="color_dark_green">#ff064f00</color>
+  <color name="color_light_gold">#ff9e855e</color>
+  <color name="color_gold">#ff816d4d</color>
+  <color name="color_dark_gold">#ff69583e</color>
+  <color name="color_itp_gold">#ffebe7df</color>
+  <color name="color_light_yellow">#ffffecb1</color>
+  <color name="color_yellow">#ffffcf3d</color>
+  <color name="color_dark_yellow">#ff5b3d2f</color>
+  <color name="color_black_opac_0">#00000000</color>
+  <color name="color_black_opac_04">#0a000000</color>
+  <color name="color_black_opac_50">#80000000</color>
+  <color name="color_black_opac_70">#b3000000</color>
+  <color name="color_black_opac_90">#e6000000</color>
+  <color name="color_white_opac_12">#1fffffff</color>
+  <color name="color_white_opac_25">#40ffffff</color>
+  <color name="color_white_opac_80">#ccffffff</color>
+  <color name="color_blue_opac_10">#1a0274b6</color>
+  
+</resources>

@@ -1,0 +1,233 @@
+{
+  "typography": {
+    "body": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        }
+      },
+      "serif": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" }
+        }
+      }
+    },
+    "byline": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" }
+        }
+      }
+    },
+    "caption": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        },
+        "s": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        }
+      }
+    },
+    "flashline": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "opinion": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "priority": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "magazine": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-wide.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      }
+    },
+    "headline": {
+      "standard": {
+        "xxl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "l": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "m": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xxs": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        }
+      },
+      "opinion": {
+        "xxl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "l": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "m": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xxs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        }
+      },
+      "features": {
+        "xxl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "l": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "m": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xxs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        }
+      },
+      "magazine": {
+        "xxl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xl": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "l": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "m": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xxs": {
+          "font-family": { "value": "{font.font-stack.escrow-condensed.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        }
+      }
+    },
+    "strap": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "opinion": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "priority": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "magazine": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-wide.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      }
+    },
+    "subheading": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "s": {
+          "font-family": { "value": "{font.font-stack.retina.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        }
+      },
+      "serif": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" }
+        },
+        "s": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" }
+        }
+      }
+    },
+    "summary": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" }
+        },
+        "s": {
+          "font-family": { "value": "{font.font-stack.exchange.value}" }
+        }
+      }
+    },
+    "timestamp": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        },
+        "s": {
+          "font-family": { "value": "{font.font-stack.retina-narrow.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      }
+    }
+  }
+}

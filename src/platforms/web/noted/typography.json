@@ -1,0 +1,90 @@
+{
+  "typography": {
+    "body": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        }
+      }
+    },
+    "byline": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-wide.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      }
+    },
+    "caption": {
+      "photo": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      },
+      "survey": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        }
+      }
+    },
+    "flashline": {
+      "standard": {
+        "l": {
+          "font-family": { "value": "{font.font-stack.retina-wide.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        },
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-wide.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      }
+    },
+    "headline": {
+      "standard": {
+        "xxl": {
+          "font-family": { "value": "{font.font-stack.escrow-banner.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xl": {
+          "font-family": { "value": "{font.font-stack.escrow-banner.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "l": {
+          "font-family": { "value": "{font.font-stack.escrow-banner.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "m": {
+          "font-family": { "value": "{font.font-stack.escrow-banner.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xs": {
+          "font-family": { "value": "{font.font-stack.escrow-banner.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        },
+        "xxs": {
+          "font-family": { "value": "{font.font-stack.escrow-banner.value}" },
+          "text-transform": { "value": "{font.text-transform.sentence.value}" }
+        }
+      }
+    },
+    "summary": {
+      "standard": {
+        "l": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        },
+        "s": {
+          "font-family": { "value": "{font.font-stack.retina.value}" }
+        }
+      }
+    },
+    "timestamp": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.font-stack.retina-wide.value}" },
+          "text-transform": { "value": "{font.text-transform.uppercase.value}" }
+        }
+      }
+    }
+  }
+}

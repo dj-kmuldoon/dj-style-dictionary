@@ -45,6 +45,6 @@ module.exports = {
     NormalizeSemanticToPaletteToken: (path, name) => {
         path[path.indexOf("color")] = name;
         return path
-    }
+    },
 
 }

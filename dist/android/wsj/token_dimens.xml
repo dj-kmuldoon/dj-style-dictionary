@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 29 Aug 2022 12:39:16 GMT
+-->
+<resources>
+  <dimen name="spacing_spacer_48">48dp</dimen>
+  <dimen name="spacing_spacer_36">36dp</dimen>
+  <dimen name="spacing_spacer_32">32dp</dimen>
+  <dimen name="spacing_spacer_24">24dp</dimen>
+  <dimen name="spacing_spacer_20">20dp</dimen>
+  <dimen name="spacing_spacer_16">16dp</dimen>
+  <dimen name="spacing_spacer_12">12dp</dimen>
+  <dimen name="spacing_spacer_8">8dp</dimen>
+  <dimen name="spacing_spacer_4">4dp</dimen>
+  
+</resources>

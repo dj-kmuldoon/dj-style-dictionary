@@ -1,0 +1,22 @@
+{
+"typography": {
+    "byline": {
+      "font": {
+        "size": {
+          "m": { "value": 14 }
+        },
+        "line-height": {
+          "m": { "value": 22 }
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": { "value": "{typography.byline.font.size.m.value}" },
+          "line-height": { "value": "{typography.byline.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina-wide.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      }
+    }
+  }
+}

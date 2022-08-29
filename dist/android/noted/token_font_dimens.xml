@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 29 Aug 2022 12:39:17 GMT
+-->
+<resources>
+  <dimen name="font_letter_spacing_1">1sp</dimen>
+  <dimen name="font_letter_spacing_05">0.5sp</dimen>
+  <dimen name="font_letter_spacing_08">0.8sp</dimen>
+  <dimen name="typography_body_font_size_m">17sp</dimen>
+  <dimen name="typography_body_font_line_height_m">27sp</dimen>
+  <dimen name="typography_body_standard_m_font_size">17sp</dimen>
+  <dimen name="typography_body_standard_m_line_height">27sp</dimen>
+  <dimen name="typography_byline_font_size_m">14sp</dimen>
+  <dimen name="typography_byline_font_line_height_m">22sp</dimen>
+  <dimen name="typography_byline_standard_m_font_size">14sp</dimen>
+  <dimen name="typography_byline_standard_m_line_height">22sp</dimen>
+  <dimen name="typography_caption_font_size_m">16sp</dimen>
+  <dimen name="typography_caption_font_size_s">14sp</dimen>
+  <dimen name="typography_caption_font_line_height_m">24sp</dimen>
+  <dimen name="typography_caption_font_line_height_s">20sp</dimen>
+  <dimen name="typography_caption_photo_m_font_size">14sp</dimen>
+  <dimen name="typography_caption_photo_m_line_height">20sp</dimen>
+  <dimen name="typography_caption_survey_m_font_size">16sp</dimen>
+  <dimen name="typography_caption_survey_m_line_height">24sp</dimen>
+  <dimen name="typography_flashline_font_size_l">16sp</dimen>
+  <dimen name="typography_flashline_font_size_s">13sp</dimen>
+  <dimen name="typography_flashline_font_line_height_l">16sp</dimen>
+  <dimen name="typography_flashline_font_line_height_s">13sp</dimen>
+  <dimen name="typography_flashline_standard_l_font_size">16sp</dimen>
+  <dimen name="typography_flashline_standard_l_line_height">16sp</dimen>
+  <dimen name="typography_flashline_standard_s_font_size">13sp</dimen>
+  <dimen name="typography_flashline_standard_s_line_height">13sp</dimen>
+  <dimen name="typography_headline_font_size_xxl">56sp</dimen>
+  <dimen name="typography_headline_font_size_xl">50sp</dimen>
+  <dimen name="typography_headline_font_size_l">40sp</dimen>
+  <dimen name="typography_headline_font_size_m">32sp</dimen>
+  <dimen name="typography_headline_font_size_s">28sp</dimen>
+  <dimen name="typography_headline_font_size_xs">22sp</dimen>
+  <dimen name="typography_headline_font_size_xxs">18sp</dimen>
+  <dimen name="typography_headline_font_line_height_xxl">62sp</dimen>
+  <dimen name="typography_headline_font_line_height_xl">54sp</dimen>
+  <dimen name="typography_headline_font_line_height_l">44sp</dimen>
+  <dimen name="typography_headline_font_line_height_m">34sp</dimen>
+  <dimen name="typography_headline_font_line_height_s">30sp</dimen>
+  <dimen name="typography_headline_font_line_height_xs">24sp</dimen>
+  <dimen name="typography_headline_font_line_height_xxs">20sp</dimen>
+  <dimen name="typography_headline_standard_xxl_font_size">56sp</dimen>
+  <dimen name="typography_headline_standard_xxl_line_height">62sp</dimen>
+  <dimen name="typography_headline_standard_xl_font_size">50sp</dimen>
+  <dimen name="typography_headline_standard_xl_line_height">54sp</dimen>
+  <dimen name="typography_headline_standard_l_font_size">40sp</dimen>
+  <dimen name="typography_headline_standard_l_line_height">44sp</dimen>
+  <dimen name="typography_headline_standard_m_font_size">32sp</dimen>
+  <dimen name="typography_headline_standard_m_line_height">34sp</dimen>
+  <dimen name="typography_headline_standard_s_font_size">28sp</dimen>
+  <dimen name="typography_headline_standard_s_line_height">30sp</dimen>
+  <dimen name="typography_headline_standard_xs_font_size">22sp</dimen>
+  <dimen name="typography_headline_standard_xs_line_height">24sp</dimen>
+  <dimen name="typography_headline_standard_xxs_font_size">18sp</dimen>
+  <dimen name="typography_headline_standard_xxs_line_height">20sp</dimen>
+  <dimen name="typography_summary_font_size_l">20sp</dimen>
+  <dimen name="typography_summary_font_size_s">16sp</dimen>
+  <dimen name="typography_summary_font_line_height_l">30sp</dimen>
+  <dimen name="typography_summary_font_line_height_s">24sp</dimen>
+  <dimen name="typography_summary_standard_l_font_size">20sp</dimen>
+  <dimen name="typography_summary_standard_l_line_height">30sp</dimen>
+  <dimen name="typography_summary_standard_s_font_size">16sp</dimen>
+  <dimen name="typography_summary_standard_s_line_height">24sp</dimen>
+  <dimen name="typography_timestamp_font_size_m">14sp</dimen>
+  <dimen name="typography_timestamp_font_line_height_m">22sp</dimen>
+  <dimen name="typography_timestamp_standard_m_font_size">14sp</dimen>
+  <dimen name="typography_timestamp_standard_m_line_height">22sp</dimen>
+  
+</resources>

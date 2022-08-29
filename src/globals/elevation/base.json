@@ -1,0 +1,24 @@
+{
+  "elevation": {
+    "card": {
+      "x": { "value": "0" },
+      "y": { "value": "1" },
+      "blur": { "value": "2" },
+      "spread": { "value": "1" },
+      "color": { 
+        "light": { "value": "{color.black-opac-10.value}" },
+        "dark": { "value": "{color.white-opac-50.value}" }
+      }
+    },
+    "dropdown": {
+      "x": { "value": "0" },
+      "y": { "value": "3" },
+      "blur": { "value": "7" },
+      "spread": { "value": "-4" },
+      "color": { 
+        "light": { "value": "{color.black-opac-10.value}" },
+        "dark": { "value": "{color.white-opac-50.value}" }
+      }
+    }
+  }
+}

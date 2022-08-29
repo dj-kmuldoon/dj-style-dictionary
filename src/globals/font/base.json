@@ -1,0 +1,41 @@
+{
+  "font": {
+    "family": {
+      "retina": { "value": "Retina" },
+      "exchange": { "value": "Exchange" },
+      "escrow-condensed": { "value": "Escrow Condensed" },
+      "retina-narrow": { "value": "Retina Narrow" },
+      "retina-wide": { "value": "Retina Wide" },
+      "helvetica": { "value": "Helvetica" },
+      "arial": { "value": "Arial" },
+      "escrow-banner": { "value": "Escrow Banner" },
+      "georgia": { "value": "Georgia" },
+      "serif": { "value": "serif" },
+      "sans-serif": { "value": "sans-serif" }
+    },
+    "weight": {
+      "thin": { "value": 100 },
+      "extra-light": { "value": 200 },
+      "light": { "value": 300 },
+      "regular": { "value": 400 },
+      "medium": { "value": 500 },
+      "semi-bold": { "value": 600 },
+      "bold": { "value": 700 },
+      "extra-bold": { "value": 800 },
+      "ultra-bold": { "value": 900 }
+    },
+    "style": {
+      "normal": { "value": "normal" },
+      "italic": { "value": "italic" }
+    },
+    "case": {
+      "sentence": { "value": "sentence" },
+      "uppercase": { "value": "uppercase" }
+    },
+    "letter-spacing": {
+      "05": { "value": 0.5 },
+      "08": { "value": 0.8 },
+      "1": { "value": 1 }
+    }
+  }
+}

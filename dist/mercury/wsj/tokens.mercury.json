@@ -1,0 +1,1095 @@
+{
+  "border-radius": {
+    "m": 4,
+    "s": 2
+  },
+  "color": {
+    "white": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "black": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "snow": [
+      0.957,
+      0.957,
+      0.957,
+      1
+    ],
+    "black-opac-10": [
+      0,
+      0,
+      0,
+      0.1
+    ],
+    "white-opac-50": [
+      1,
+      1,
+      1,
+      0.5
+    ],
+    "midnight": [
+      0.067,
+      0.067,
+      0.067,
+      1
+    ],
+    "jet": [
+      0.133,
+      0.133,
+      0.133,
+      1
+    ],
+    "coal": [
+      0.2,
+      0.2,
+      0.2,
+      1
+    ],
+    "nickel": [
+      0.333,
+      0.333,
+      0.333,
+      1
+    ],
+    "silver": [
+      0.8,
+      0.8,
+      0.8,
+      1
+    ],
+    "smoke": [
+      0.922,
+      0.922,
+      0.922,
+      1
+    ],
+    "light-blue": [
+      0.4,
+      0.78,
+      1,
+      1
+    ],
+    "blue": [
+      0.008,
+      0.455,
+      0.714,
+      1
+    ],
+    "dark-blue": [
+      0.004,
+      0.329,
+      0.514,
+      1
+    ],
+    "light-red": [
+      1,
+      0.522,
+      0.522,
+      1
+    ],
+    "red": [
+      0.882,
+      0,
+      0,
+      1
+    ],
+    "dark-red": [
+      0.729,
+      0,
+      0,
+      1
+    ],
+    "light-green": [
+      0.451,
+      0.937,
+      0.412,
+      1
+    ],
+    "green": [
+      0.039,
+      0.51,
+      0,
+      1
+    ],
+    "dark-green": [
+      0.024,
+      0.31,
+      0,
+      1
+    ],
+    "light-gold": [
+      0.62,
+      0.522,
+      0.369,
+      1
+    ],
+    "gold": [
+      0.506,
+      0.427,
+      0.302,
+      1
+    ],
+    "dark-gold": [
+      0.412,
+      0.345,
+      0.243,
+      1
+    ],
+    "itp-gold": [
+      0.922,
+      0.906,
+      0.875,
+      1
+    ],
+    "light-yellow": [
+      1,
+      0.925,
+      0.694,
+      1
+    ],
+    "yellow": [
+      1,
+      0.812,
+      0.239,
+      1
+    ],
+    "dark-yellow": [
+      0.357,
+      0.239,
+      0.184,
+      1
+    ],
+    "black-opac-0": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "black-opac-04": [
+      0,
+      0,
+      0,
+      0.04
+    ],
+    "black-opac-50": [
+      0,
+      0,
+      0,
+      0.5
+    ],
+    "black-opac-70": [
+      0,
+      0,
+      0,
+      0.7
+    ],
+    "black-opac-90": [
+      0,
+      0,
+      0,
+      0.9
+    ],
+    "white-opac-12": [
+      1,
+      1,
+      1,
+      0.12
+    ],
+    "white-opac-25": [
+      1,
+      1,
+      1,
+      0.25
+    ],
+    "white-opac-80": [
+      1,
+      1,
+      1,
+      0.8
+    ],
+    "blue-opac-10": [
+      0.008,
+      0.455,
+      0.714,
+      0.1
+    ]
+  },
+  "elevation": {
+    "card": {
+      "x": "0",
+      "y": "1",
+      "blur": "2",
+      "spread": "1",
+      "color": {
+        "light": [
+          0,
+          0,
+          0,
+          0.1
+        ],
+        "dark": [
+          1,
+          1,
+          1,
+          0.5
+        ]
+      }
+    },
+    "dropdown": {
+      "x": "0",
+      "y": "3",
+      "blur": "7",
+      "spread": "-4",
+      "color": {
+        "light": [
+          0,
+          0,
+          0,
+          0.1
+        ],
+        "dark": [
+          1,
+          1,
+          1,
+          0.5
+        ]
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "retina": "Retina",
+      "exchange": "Exchange",
+      "escrow-condensed": "Escrow Condensed",
+      "retina-narrow": "Retina Narrow",
+      "retina-wide": "Retina Wide",
+      "helvetica": "Helvetica",
+      "arial": "Arial",
+      "escrow-banner": "Escrow Banner",
+      "georgia": "Georgia",
+      "serif": "serif",
+      "sans-serif": "sans-serif"
+    },
+    "weight": {
+      "thin": 100,
+      "extra-light": 200,
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semi-bold": 600,
+      "bold": 700,
+      "extra-bold": 800,
+      "ultra-bold": 900
+    },
+    "style": {
+      "normal": "normal",
+      "italic": "italic"
+    },
+    "case": {
+      "sentence": "sentence",
+      "uppercase": "uppercase"
+    },
+    "letter-spacing": {
+      "1": 1,
+      "05": 0.5,
+      "08": 0.8
+    }
+  },
+  "spacing": {
+    "spacer-48": 48,
+    "spacer-36": 36,
+    "spacer-32": 32,
+    "spacer-24": 24,
+    "spacer-20": 20,
+    "spacer-16": 16,
+    "spacer-12": 12,
+    "spacer-8": 8,
+    "spacer-4": 4
+  },
+  "typography": {
+    "body": {
+      "font": {
+        "size": {
+          "m": 17,
+          "s": 15
+        },
+        "line-height": {
+          "m": 28,
+          "s": 24
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 17,
+          "line-height": 28,
+          "font-family": "Retina",
+          "font-weight": 400
+        }
+      },
+      "serif": {
+        "m": {
+          "font-size": 17,
+          "line-height": 28,
+          "font-family": "Exchange",
+          "font-weight": 400
+        },
+        "s": {
+          "font-size": 15,
+          "line-height": 24,
+          "font-family": "Exchange",
+          "font-weight": 400
+        }
+      }
+    },
+    "byline": {
+      "font": {
+        "size": {
+          "m": 17,
+          "s": 14
+        },
+        "line-height": {
+          "m": 28,
+          "s": 20
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 17,
+          "line-height": 28,
+          "font-family": "Exchange",
+          "font-weight": 400,
+          "font-style": "italic"
+        },
+        "s": {
+          "font-size": 14,
+          "line-height": 20,
+          "font-family": "Exchange",
+          "font-weight": 400,
+          "font-style": "italic"
+        }
+      }
+    },
+    "caption": {
+      "font": {
+        "size": {
+          "m": 14,
+          "s": 13
+        },
+        "line-height": {
+          "m": 20
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 14,
+          "line-height": 20,
+          "font-family": "Retina",
+          "font-weight": 300
+        },
+        "s": {
+          "font-size": 13,
+          "line-height": 20,
+          "font-family": "Retina",
+          "font-weight": 300
+        }
+      }
+    },
+    "flashline": {
+      "font": {
+        "size": {
+          "m": 13
+        },
+        "line-height": {
+          "m": 16
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 13,
+          "line-height": 16,
+          "font-family": "Retina Narrow",
+          "font-weight": 500,
+          "letter-spacing": 0.8,
+          "case": "uppercase"
+        }
+      },
+      "opinion": {
+        "m": {
+          "font-size": 13,
+          "line-height": 16,
+          "font-family": "Retina Narrow",
+          "font-weight": 500,
+          "letter-spacing": 0.8,
+          "case": "uppercase"
+        }
+      },
+      "priority": {
+        "m": {
+          "font-size": 13,
+          "line-height": 16,
+          "font-family": "Retina Narrow",
+          "font-weight": 500,
+          "letter-spacing": 0.8,
+          "case": "uppercase"
+        }
+      },
+      "magazine": {
+        "m": {
+          "font-size": 13,
+          "line-height": 16,
+          "font-family": "Retina Wide",
+          "font-weight": 300,
+          "letter-spacing": 1,
+          "case": "uppercase"
+        }
+      }
+    },
+    "headline": {
+      "font": {
+        "size": {
+          "xxl": 40,
+          "xl": 36,
+          "l": 32,
+          "m": 28,
+          "s": 22,
+          "xs": 18,
+          "xxs": 16
+        },
+        "line-height": {
+          "xxl": 40,
+          "xl": 36,
+          "l": 36,
+          "m": 32,
+          "s": 24,
+          "xs": 20,
+          "xxs": 24
+        }
+      },
+      "standard": {
+        "xxl": {
+          "font-size": 40,
+          "line-height": 40,
+          "font-family": "Escrow Condensed",
+          "font-weight": 700,
+          "case": "sentence"
+        },
+        "xl": {
+          "font-size": 36,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-weight": 700,
+          "case": "sentence"
+        },
+        "l": {
+          "font-size": 32,
+          "line-height": 32,
+          "font-family": "Escrow Condensed",
+          "font-weight": 700,
+          "case": "sentence"
+        },
+        "m": {
+          "font-size": 28,
+          "line-height": 32,
+          "font-family": "Escrow Condensed",
+          "font-weight": 700,
+          "case": "sentence"
+        },
+        "s": {
+          "font-size": 22,
+          "line-height": 24,
+          "font-family": "Escrow Condensed",
+          "font-weight": 700
+        },
+        "xs": {
+          "font-size": 18,
+          "line-height": 20,
+          "font-family": "Escrow Condensed",
+          "font-weight": 700,
+          "case": "sentence"
+        },
+        "xxs": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Exchange",
+          "font-weight": 500,
+          "case": "sentence"
+        }
+      },
+      "opinion": {
+        "xxl": {
+          "font-size": 40,
+          "line-height": 40,
+          "font-family": "Escrow Condensed",
+          "font-style": "italic",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "xl": {
+          "font-size": 36,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-style": "italic",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "l": {
+          "font-size": 32,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-style": "italic",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "m": {
+          "font-size": 28,
+          "line-height": 32,
+          "font-family": "Escrow Condensed",
+          "font-style": "italic",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "s": {
+          "font-size": 22,
+          "line-height": 24,
+          "font-family": "Escrow Condensed",
+          "font-style": "italic",
+          "font-weight": 400
+        },
+        "xs": {
+          "font-size": 18,
+          "line-height": 20,
+          "font-family": "Escrow Condensed",
+          "font-style": "italic",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "xxs": {
+          "case": "sentence"
+        }
+      },
+      "features": {
+        "xxl": {
+          "font-size": 40,
+          "line-height": 40,
+          "font-family": "Escrow Condensed",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "xl": {
+          "font-size": 36,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "l": {
+          "font-size": 32,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "m": {
+          "font-size": 28,
+          "line-height": 32,
+          "font-family": "Escrow Condensed",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "s": {
+          "font-size": 22,
+          "line-height": 24,
+          "font-family": "Escrow Condensed",
+          "font-weight": 400
+        },
+        "xs": {
+          "font-size": 18,
+          "line-height": 20,
+          "font-family": "Escrow Condensed",
+          "font-weight": 400,
+          "case": "sentence"
+        },
+        "xxs": {
+          "case": "sentence"
+        }
+      },
+      "magazine": {
+        "xxl": {
+          "font-size": 40,
+          "line-height": 40,
+          "font-family": "Escrow Condensed",
+          "font-weight": 300,
+          "case": "sentence"
+        },
+        "xl": {
+          "font-size": 36,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-weight": 300,
+          "case": "sentence"
+        },
+        "l": {
+          "font-size": 32,
+          "line-height": 36,
+          "font-family": "Escrow Condensed",
+          "font-weight": 300,
+          "case": "sentence"
+        },
+        "m": {
+          "font-size": 28,
+          "line-height": 32,
+          "font-family": "Escrow Condensed",
+          "font-weight": 300,
+          "case": "sentence"
+        },
+        "s": {
+          "font-size": 22,
+          "line-height": 24,
+          "font-family": "Escrow Condensed",
+          "font-weight": 300
+        },
+        "xs": {
+          "font-size": 18,
+          "line-height": 20,
+          "font-family": "Escrow Condensed",
+          "font-weight": 300,
+          "case": "sentence"
+        },
+        "xxs": {
+          "case": "sentence"
+        }
+      },
+      "offplatform": {
+        "xxl": {
+          "font-size": 32,
+          "line-height": 36,
+          "font-family": "Retina",
+          "font-weight": 500
+        }
+      }
+    },
+    "strap": {
+      "font": {
+        "size": {
+          "m": 18,
+          "s": 16
+        },
+        "line-height": {
+          "m": 24,
+          "s": 24
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 18,
+          "line-height": 24,
+          "font-family": "Retina Narrow",
+          "font-weight": 500,
+          "case": "uppercase"
+        },
+        "s": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Retina",
+          "font-weight": 500
+        }
+      },
+      "opinion": {
+        "m": {
+          "font-size": 18,
+          "line-height": 24,
+          "font-family": "Retina Narrow",
+          "font-weight": 500,
+          "case": "uppercase"
+        }
+      },
+      "priority": {
+        "m": {
+          "font-size": 18,
+          "line-height": 24,
+          "font-family": "Retina Narrow",
+          "font-weight": 500,
+          "case": "uppercase"
+        }
+      },
+      "magazine": {
+        "m": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Retina Wide",
+          "font-weight": 300,
+          "case": "uppercase"
+        }
+      }
+    },
+    "strapLink": {
+      "font": {
+        "size": {
+          "s": 16
+        },
+        "line-height": {
+          "s": 24
+        }
+      },
+      "standard": {
+        "s": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Retina",
+          "font-weight": 300
+        }
+      }
+    },
+    "subheading": {
+      "font": {
+        "size": {
+          "m": 20,
+          "s": 17
+        },
+        "line-height": {
+          "m": 28,
+          "s": 24
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 20,
+          "line-height": 28,
+          "font-family": "Retina",
+          "font-weight": 300,
+          "case": "sentence"
+        },
+        "s": {
+          "font-size": 17,
+          "line-height": 24,
+          "font-family": "Retina",
+          "font-weight": 300,
+          "case": "sentence"
+        }
+      },
+      "serif": {
+        "m": {
+          "font-size": 20,
+          "line-height": 28,
+          "font-family": "Exchange",
+          "font-weight": 400
+        },
+        "s": {
+          "font-size": 17,
+          "line-height": 24,
+          "font-family": "Exchange",
+          "font-weight": 400
+        }
+      }
+    },
+    "summary": {
+      "font": {
+        "size": {
+          "m": 16,
+          "s": 14
+        },
+        "line-height": {
+          "m": 24,
+          "s": 20
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Retina",
+          "font-weight": 300
+        },
+        "s": {
+          "font-size": 14,
+          "line-height": 20,
+          "font-family": "Exchange",
+          "font-weight": 400
+        }
+      }
+    },
+    "timestamp": {
+      "font": {
+        "size": {
+          "m": 14,
+          "s": 13,
+          "xs": 13
+        },
+        "line-height": {
+          "m": 16,
+          "xs": 16
+        }
+      },
+      "standard": {
+        "xs": {
+          "font-size": 13,
+          "line-height": 16,
+          "font-family": "Retina",
+          "font-weight": 300
+        },
+        "m": {
+          "font-size": 14,
+          "line-height": 16,
+          "font-family": "Retina",
+          "font-weight": 300,
+          "case": "uppercase"
+        },
+        "s": {
+          "font-size": 13,
+          "line-height": 16,
+          "font-family": "Retina",
+          "font-weight": 300,
+          "case": "uppercase"
+        }
+      }
+    },
+    "sansSerif": {
+      "font": {
+        "size": {
+          "standard": {
+            "l": 18,
+            "m": 16,
+            "s": 14,
+            "xs": 13,
+            "xxs": 12,
+            "xxxs": 10
+          },
+          "condensed": {
+            "xxl": 24,
+            "xl": 20,
+            "l": 18,
+            "m": 16
+          },
+          "capsTitle": {
+            "standard": {
+              "l": 28,
+              "m": 18,
+              "s": 13
+            },
+            "magazine": {
+              "m": 16,
+              "s": 12
+            }
+          }
+        },
+        "line-height": {
+          "standard": {
+            "l": 24,
+            "m": 24,
+            "s": 20,
+            "xs": 16,
+            "xxs": 16,
+            "xxxs": 14
+          },
+          "condensed": {
+            "xxl": 28,
+            "xl": 24,
+            "l": 24,
+            "m": 20
+          },
+          "capsTitle": {
+            "standard": {
+              "l": 32,
+              "m": 24,
+              "s": 16
+            },
+            "magazine": {
+              "m": 14,
+              "s": 16
+            }
+          }
+        }
+      },
+      "standard": {
+        "l": {
+          "thick": {
+            "font-size": 18,
+            "line-height": 24,
+            "font-family": "Retina",
+            "font-weight": 500
+          },
+          "thin": {
+            "font-size": 18,
+            "line-height": 24,
+            "font-family": "Retina",
+            "font-weight": 300
+          }
+        },
+        "m": {
+          "thick": {
+            "font-size": 16,
+            "line-height": 24,
+            "font-family": "Retina",
+            "font-weight": 500
+          },
+          "thin": {
+            "font-size": 16,
+            "line-height": 24,
+            "font-family": "Retina",
+            "font-weight": 300
+          }
+        },
+        "s": {
+          "thick": {
+            "font-size": 14,
+            "line-height": 20,
+            "font-family": "Retina",
+            "font-weight": 500
+          },
+          "thin": {
+            "font-size": 14,
+            "line-height": 20,
+            "font-family": "Retina",
+            "font-weight": 300
+          }
+        },
+        "xs": {
+          "thick": {
+            "font-size": 13,
+            "line-height": 16,
+            "font-family": "Retina",
+            "font-weight": 500
+          },
+          "thin": {
+            "font-size": 13,
+            "line-height": 16,
+            "font-family": "Retina",
+            "font-weight": 300
+          }
+        },
+        "xxs": {
+          "thick": {
+            "font-size": 12,
+            "line-height": 16,
+            "font-family": "Retina",
+            "font-weight": 500
+          },
+          "thin": {
+            "font-size": 12,
+            "line-height": 16,
+            "font-family": "Retina",
+            "font-weight": 300
+          }
+        },
+        "xxxs": {
+          "thick": {
+            "font-size": 10,
+            "line-height": 14,
+            "font-family": "Retina",
+            "font-weight": 500
+          },
+          "thin": {
+            "font-size": 10,
+            "line-height": 14,
+            "font-family": "Retina",
+            "font-weight": 300
+          }
+        }
+      },
+      "condensed": {
+        "xxl": {
+          "thick": {
+            "font-size": 24,
+            "line-height": 28,
+            "font-family": "Retina Narrow",
+            "font-weight": 500
+          }
+        },
+        "xl": {
+          "thick": {
+            "font-size": 20,
+            "line-height": 24,
+            "font-family": "Retina Narrow",
+            "font-weight": 500
+          }
+        },
+        "l": {
+          "thick": {
+            "font-size": 18,
+            "line-height": 24,
+            "font-family": "Retina Narrow",
+            "font-weight": 500
+          }
+        },
+        "m": {
+          "thick": {
+            "font-size": 16,
+            "line-height": 20,
+            "font-family": "Retina Narrow",
+            "font-weight": 500
+          }
+        }
+      },
+      "capsTitle": {
+        "l": {
+          "standard": {
+            "font-size": 28,
+            "line-height": 32,
+            "font-family": "Retina Narrow",
+            "font-weight": 700,
+            "font-case": "uppercase"
+          }
+        },
+        "m": {
+          "standard": {
+            "font-size": 18,
+            "line-height": 24,
+            "font-family": "Retina Narrow",
+            "font-weight": 500,
+            "font-case": "uppercase"
+          },
+          "magazine": {
+            "font-size": 16,
+            "line-height": 14,
+            "font-family": "Retina Wide",
+            "font-weight": 300,
+            "font-case": "uppercase"
+          }
+        },
+        "s": {
+          "standard": {
+            "font-size": 13,
+            "line-height": 16,
+            "font-family": "Retina Narrow",
+            "font-weight": 500,
+            "font-case": "uppercase",
+            "font-letter-spacing": 0.8
+          },
+          "magazine": {
+            "font-size": 16,
+            "line-height": 14,
+            "font-family": "Retina Wide",
+            "font-weight": 300,
+            "font-case": "uppercase",
+            "font-letter-spacing": 1
+          }
+        }
+      }
+    }
+  },
+  "theme": {
+    "light": {
+      "windowBackground": [
+        0.957,
+        0.957,
+        0.957,
+        1
+      ]
+    },
+    "dark": {
+      "windowBackground": [
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  }
+}

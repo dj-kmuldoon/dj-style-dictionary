@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 29 Aug 2022 12:39:17 GMT
+-->
+<resources>
+  <string name="font_family_retina">Retina</string>
+  <string name="font_family_exchange">Exchange</string>
+  <string name="font_family_escrow_condensed">Escrow Condensed</string>
+  <string name="font_family_retina_narrow">Retina Narrow</string>
+  <string name="font_family_retina_wide">Retina Wide</string>
+  <string name="font_family_helvetica">Helvetica</string>
+  <string name="font_family_arial">Arial</string>
+  <string name="font_family_escrow_banner">Escrow Banner</string>
+  <string name="font_family_georgia">Georgia</string>
+  <string name="font_family_serif">serif</string>
+  <string name="font_family_sans_serif">sans-serif</string>
+  <string name="font_style_normal">normal</string>
+  <string name="font_style_italic">italic</string>
+  <string name="font_case_sentence">sentence</string>
+  <string name="font_case_uppercase">uppercase</string>
+  <string name="typography_body_standard_m_font_family">Retina</string>
+  <string name="typography_byline_standard_m_font_family">Retina Wide</string>
+  <string name="typography_caption_photo_m_font_family">Retina</string>
+  <string name="typography_caption_survey_m_font_family">Retina</string>
+  <string name="typography_flashline_standard_l_font_family">Retina Wide</string>
+  <string name="typography_flashline_standard_s_font_family">Retina Wide</string>
+  <string name="typography_headline_standard_xxl_font_family">Escrow Banner</string>
+  <string name="typography_headline_standard_xl_font_family">Escrow Banner</string>
+  <string name="typography_headline_standard_l_font_family">Escrow Banner</string>
+  <string name="typography_headline_standard_m_font_family">Escrow Banner</string>
+  <string name="typography_headline_standard_s_font_family">Escrow Banner</string>
+  <string name="typography_headline_standard_xs_font_family">Escrow Banner</string>
+  <string name="typography_headline_standard_xxs_font_family">Exchange</string>
+  <string name="typography_summary_standard_l_font_family">Retina</string>
+  <string name="typography_summary_standard_s_font_family">Retina</string>
+  <string name="typography_timestamp_standard_m_font_family">Retina Wide</string>
+  
+</resources>

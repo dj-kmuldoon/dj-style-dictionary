@@ -1,0 +1,20 @@
+{
+  "box-shadow": {
+    "card": {
+      "dark": {
+        "value": "{elevation.card.x.value}px {elevation.card.y.value}px {elevation.card.blur.value}px {elevation.card.spread.value}px {elevation.card.color.dark.value}"
+      },
+      "light": {
+        "value": "{elevation.card.x.value}px {elevation.card.y.value}px {elevation.card.blur.value}px {elevation.card.spread.value}px {elevation.card.color.light.value}"
+      }
+    },
+    "dropdown": {
+      "dark": {
+        "value": "{elevation.dropdown.x.value}px {elevation.dropdown.y.value}px {elevation.dropdown.blur.value}px {elevation.dropdown.spread.value}px {elevation.dropdown.color.dark.value}"
+      },
+      "light": {
+        "value": "{elevation.dropdown.x.value}px {elevation.dropdown.y.value}px {elevation.dropdown.blur.value}px {elevation.dropdown.spread.value}px {elevation.dropdown.color.light.value}"
+      }
+    }
+  }
+}

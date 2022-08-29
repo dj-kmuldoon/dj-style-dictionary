@@ -1,0 +1,163 @@
+{
+  "typography": {
+    "flashline": {
+      "standard": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "opinion": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "priority": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "magazine": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      }
+    },
+    "headline": {
+      "standard": {
+        "xxl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "l": {
+          "case": { "value": "{font.case.sentence.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.m.value}" }
+        },
+        "m": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xxs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        }
+      },
+      "opinion": {
+        "xxl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "l": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "m": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xxs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        }
+      },
+      "features": {
+        "xxl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "l": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "m": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xxs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        }
+      },
+      "magazine": {
+        "xxl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xl": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "l": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "m": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "xxs": {
+          "case": { "value": "{font.case.sentence.value}" }
+        }
+      }
+    },
+    "strap": {
+      "standard": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "opinion": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "priority": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      },
+      "magazine": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" }
+        }
+      }
+    },
+    "subheading": {
+      "standard": {
+        "m": {
+          "case": { "value": "{font.case.sentence.value}" }
+        },
+        "s": {
+          "case": { "value": "{font.case.sentence.value}" }
+        }
+      }
+    },
+    "summary": {
+      "standard": {
+        "m": {
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      }
+    },
+    "timestamp": {
+      "standard": {
+        "m": {
+          "case": { "value": "{font.case.uppercase.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        },
+        "s": {
+          "case": { "value": "{font.case.uppercase.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "typography": {
+    "strapLink": {
+      "font": {
+        "size": {
+          "s": { "value": 16 }
+        },
+        "line-height": {
+          "s": { "value": 24 }
+        }
+      },
+      "standard": {
+        "s": {
+          "font-size": { "value": "{typography.strap.font.size.s.value}" },
+          "line-height": { "value": "{typography.strap.font.line-height.s.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      }
+    }
+  }
+}

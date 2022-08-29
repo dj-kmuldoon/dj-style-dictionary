@@ -1,0 +1,44 @@
+{
+  "typography": {
+    "subheading": {
+      "font": {
+        "size": {
+          "m": { "value": 20 },
+          "s": { "value": 17 }
+        },
+        "line-height": {
+          "m": { "value": 28 },
+          "s": { "value": 24 }
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": { "value": "{typography.subheading.font.size.m.value}" },
+          "line-height": { "value": "{typography.subheading.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        },
+        "s": {
+          "font-size": { "value": "{typography.subheading.font.size.s.value}" },
+          "line-height": { "value": "{typography.subheading.font.line-height.s.value}" },
+          "font-family": { "value": "{font.family.retina.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      },
+      "serif": {
+        "m": {
+          "font-size": { "value": "{typography.subheading.font.size.m.value}" },
+          "line-height": { "value": "{typography.subheading.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.exchange.value}" },
+          "font-weight": { "value": "{font.weight.regular.value}" }
+        },
+        "s": {
+          "font-size": { "value": "{typography.subheading.font.size.s.value}" },
+          "line-height": { "value": "{typography.subheading.font.line-height.s.value}" },
+          "font-family": { "value": "{font.family.exchange.value}" },
+          "font-weight": { "value": "{font.weight.regular.value}" }
+        }
+      }
+    }
+  }
+}

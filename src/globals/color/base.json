@@ -1,0 +1,9 @@
+{
+  "color": {
+    "white": { "value": "rgba(255, 255, 255, 1)" },
+    "black": { "value": "rgba(0, 0, 0, 1)" },
+    "snow": { "value": "rgba(244, 244, 244, 1)" },
+    "black-opac-10": { "value": "rgba(0, 0, 0, 0.1)" },
+    "white-opac-50": { "value": "rgba(255, 255, 255, 0.5)" }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "typography": {
+    "flashline": {
+      "font": {
+        "size": {
+          "l": { "value": 16 },
+          "s": { "value": 13 }
+        },
+        "line-height": {
+          "l": { "value": 16 },
+          "s": { "value": 13 }
+        }
+      },
+      "standard": {
+        "l": {
+          "font-size": { "value": "{typography.flashline.font.size.l.value}" },
+          "line-height": { "value": "{typography.flashline.font.line-height.l.value}" },
+          "font-family": { "value": "{font.family.retina-wide.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        },
+        "s": {
+          "font-size": { "value": "{typography.flashline.font.size.s.value}" },
+          "line-height": { "value": "{typography.flashline.font.line-height.s.value}" },
+          "font-family": { "value": "{font.family.retina-wide.value}" },
+          "font-weight": { "value": "{font.weight.light.value}" }
+        }
+      }
+    }
+  }
+}

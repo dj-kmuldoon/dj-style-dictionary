@@ -1,0 +1,16 @@
+{
+  "color": {
+    "teal":	{ "value": "#007D7E" },
+    "dark-teal": { "value": "#00696B" },
+    "light-teal": { "value": "#009C9E" },
+    "off-white": { "value": "#FFFBF7" },
+    "off-white-10": { "value": "#E6E2DE" },
+    "off-white-20": { "value": "#CCC9C6" },
+    "teal-opac-10": { "value": "rgba(0, 125, 126, 0.1)" },
+    "navy": { "value": "#151639" },
+    "navy-75": { "value": "#50516B" },
+    "navy-50": { "value": "#8A8A9C" },
+    "navy-25": { "value": "#C4C5CD" },
+    "dark-navy": { "value": "#0B0C1F" }
+  }
+}

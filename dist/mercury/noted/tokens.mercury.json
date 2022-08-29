@@ -1,0 +1,367 @@
+{
+  "border-radius": {
+    "m": 4,
+    "s": 2
+  },
+  "color": {
+    "white": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "black": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "snow": [
+      0.957,
+      0.957,
+      0.957,
+      1
+    ],
+    "black-opac-10": [
+      0,
+      0,
+      0,
+      0.1
+    ],
+    "white-opac-50": [
+      1,
+      1,
+      1,
+      0.5
+    ],
+    "teal": "#007D7E",
+    "dark-teal": "#00696B",
+    "light-teal": "#009C9E",
+    "off-white": "#FFFBF7",
+    "off-white-10": "#E6E2DE",
+    "off-white-20": "#CCC9C6",
+    "teal-opac-10": [
+      0,
+      0.49,
+      0.494,
+      0.1
+    ],
+    "navy": "#151639",
+    "navy-75": "#50516B",
+    "navy-50": "#8A8A9C",
+    "navy-25": "#C4C5CD",
+    "dark-navy": "#0B0C1F"
+  },
+  "elevation": {
+    "card": {
+      "x": "0",
+      "y": "1",
+      "blur": "2",
+      "spread": "1",
+      "color": {
+        "light": [
+          0,
+          0,
+          0,
+          0.1
+        ],
+        "dark": [
+          1,
+          1,
+          1,
+          0.5
+        ]
+      }
+    },
+    "dropdown": {
+      "x": "0",
+      "y": "3",
+      "blur": "7",
+      "spread": "-4",
+      "color": {
+        "light": [
+          0,
+          0,
+          0,
+          0.1
+        ],
+        "dark": [
+          1,
+          1,
+          1,
+          0.5
+        ]
+      }
+    }
+  },
+  "font": {
+    "family": {
+      "retina": "Retina",
+      "exchange": "Exchange",
+      "escrow-condensed": "Escrow Condensed",
+      "retina-narrow": "Retina Narrow",
+      "retina-wide": "Retina Wide",
+      "helvetica": "Helvetica",
+      "arial": "Arial",
+      "escrow-banner": "Escrow Banner",
+      "georgia": "Georgia",
+      "serif": "serif",
+      "sans-serif": "sans-serif"
+    },
+    "weight": {
+      "thin": 100,
+      "extra-light": 200,
+      "light": 300,
+      "regular": 400,
+      "medium": 500,
+      "semi-bold": 600,
+      "bold": 700,
+      "extra-bold": 800,
+      "ultra-bold": 900
+    },
+    "style": {
+      "normal": "normal",
+      "italic": "italic"
+    },
+    "case": {
+      "sentence": "sentence",
+      "uppercase": "uppercase"
+    },
+    "letter-spacing": {
+      "1": 1,
+      "05": 0.5,
+      "08": 0.8
+    }
+  },
+  "spacing": {
+    "spacer-48": 48,
+    "spacer-36": 36,
+    "spacer-32": 32,
+    "spacer-24": 24,
+    "spacer-20": 20,
+    "spacer-16": 16,
+    "spacer-12": 12,
+    "spacer-8": 8,
+    "spacer-4": 4
+  },
+  "typography": {
+    "body": {
+      "font": {
+        "size": {
+          "m": 17
+        },
+        "line-height": {
+          "m": 27
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 17,
+          "line-height": 27,
+          "font-family": "Retina",
+          "font-weight": 300
+        }
+      }
+    },
+    "byline": {
+      "font": {
+        "size": {
+          "m": 14
+        },
+        "line-height": {
+          "m": 22
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 14,
+          "line-height": 22,
+          "font-family": "Retina Wide",
+          "font-weight": 300
+        }
+      }
+    },
+    "caption": {
+      "font": {
+        "size": {
+          "m": 16,
+          "s": 14
+        },
+        "line-height": {
+          "m": 24,
+          "s": 20
+        }
+      },
+      "photo": {
+        "m": {
+          "font-size": 14,
+          "line-height": 20,
+          "font-family": "Retina",
+          "font-weight": 300
+        }
+      },
+      "survey": {
+        "m": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Retina",
+          "font-weight": 400
+        }
+      }
+    },
+    "flashline": {
+      "font": {
+        "size": {
+          "l": 16,
+          "s": 13
+        },
+        "line-height": {
+          "l": 16,
+          "s": 13
+        }
+      },
+      "standard": {
+        "l": {
+          "font-size": 16,
+          "line-height": 16,
+          "font-family": "Retina Wide",
+          "font-weight": 300
+        },
+        "s": {
+          "font-size": 13,
+          "line-height": 13,
+          "font-family": "Retina Wide",
+          "font-weight": 300
+        }
+      }
+    },
+    "headline": {
+      "font": {
+        "size": {
+          "xxl": 56,
+          "xl": 50,
+          "l": 40,
+          "m": 32,
+          "s": 28,
+          "xs": 22,
+          "xxs": 18
+        },
+        "line-height": {
+          "xxl": 62,
+          "xl": 54,
+          "l": 44,
+          "m": 34,
+          "s": 30,
+          "xs": 24,
+          "xxs": 20
+        }
+      },
+      "standard": {
+        "xxl": {
+          "font-size": 56,
+          "line-height": 62,
+          "font-family": "Escrow Banner",
+          "font-weight": 900
+        },
+        "xl": {
+          "font-size": 50,
+          "line-height": 54,
+          "font-family": "Escrow Banner",
+          "font-weight": 900
+        },
+        "l": {
+          "font-size": 40,
+          "line-height": 44,
+          "font-family": "Escrow Banner",
+          "font-weight": 900
+        },
+        "m": {
+          "font-size": 32,
+          "line-height": 34,
+          "font-family": "Escrow Banner",
+          "font-weight": 900
+        },
+        "s": {
+          "font-size": 28,
+          "line-height": 30,
+          "font-family": "Escrow Banner",
+          "font-weight": 900
+        },
+        "xs": {
+          "font-size": 22,
+          "line-height": 24,
+          "font-family": "Escrow Banner",
+          "font-weight": 900
+        },
+        "xxs": {
+          "font-size": 18,
+          "line-height": 20,
+          "font-family": "Exchange",
+          "font-weight": 900
+        }
+      }
+    },
+    "summary": {
+      "font": {
+        "size": {
+          "l": 20,
+          "s": 16
+        },
+        "line-height": {
+          "l": 30,
+          "s": 24
+        }
+      },
+      "standard": {
+        "l": {
+          "font-size": 20,
+          "line-height": 30,
+          "font-family": "Retina",
+          "font-weight": 300
+        },
+        "s": {
+          "font-size": 16,
+          "line-height": 24,
+          "font-family": "Retina",
+          "font-weight": 300
+        }
+      }
+    },
+    "timestamp": {
+      "font": {
+        "size": {
+          "m": 14
+        },
+        "line-height": {
+          "m": 22
+        }
+      },
+      "standard": {
+        "m": {
+          "font-size": 14,
+          "line-height": 22,
+          "font-family": "Retina Wide",
+          "font-weight": 300
+        }
+      }
+    }
+  },
+  "theme": {
+    "light": {
+      "windowBackground": [
+        0.957,
+        0.957,
+        0.957,
+        1
+      ]
+    },
+    "dark": {
+      "windowBackground": [
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "typography": {
+    "headline": {
+      "font": {
+        "size": {
+          "xxl": { "value": 56 },
+          "xl": { "value": 50 },
+          "l": { "value": 40 },
+          "m": { "value": 32 },
+          "s": { "value": 28 },
+          "xs": { "value": 22 },
+          "xxs": { "value": 18 }
+        },
+        "line-height": {
+          "xxl": { "value": 62 },
+          "xl": { "value": 54 },
+          "l": { "value": 44 },
+          "m": { "value": 34 },
+          "s": { "value": 30 },
+          "xs": { "value": 24 },
+          "xxs": { "value": 20 }
+        }
+      },
+      "standard": {
+        "xxl": {
+          "font-size": { "value": "{typography.headline.font.size.xxl.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.xxl.value}" },
+          "font-family": { "value": "{font.family.escrow-banner.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        },
+        "xl": {
+          "font-size": { "value": "{typography.headline.font.size.xl.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.xl.value}" },
+          "font-family": { "value": "{font.family.escrow-banner.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        },
+        "l": {
+          "font-size": { "value": "{typography.headline.font.size.l.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.l.value}" },
+          "font-family": { "value": "{font.family.escrow-banner.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        },
+        "m": {
+          "font-size": { "value": "{typography.headline.font.size.m.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.m.value}" },
+          "font-family": { "value": "{font.family.escrow-banner.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        },
+        "s": {
+          "font-size": { "value": "{typography.headline.font.size.s.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.s.value}" },
+          "font-family": { "value": "{font.family.escrow-banner.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        },
+        "xs": {
+          "font-size": { "value": "{typography.headline.font.size.xs.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.xs.value}" },
+          "font-family": { "value": "{font.family.escrow-banner.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        },
+        "xxs": {
+          "font-size": { "value": "{typography.headline.font.size.xxs.value}" },
+          "line-height": { "value": "{typography.headline.font.line-height.xxs.value}" },
+          "font-family": { "value": "{font.family.exchange.value}" },
+          "font-weight": { "value": "{font.weight.ultra-bold.value}" }
+        }
+      }
+    }
+  }
+}
